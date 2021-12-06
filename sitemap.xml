@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://remoder.github.io/problems-of-ACM.html</loc>
+    
+    <lastmod>2021-12-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://remoder.github.io/theBirthOfBlog.html</loc>
     
     <lastmod>2021-10-10</lastmod>
@@ -46,7 +53,7 @@
 
   <url>
     <loc>http://remoder.github.io/</loc>
-    <lastmod>2021-10-10</lastmod>
+    <lastmod>2021-12-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -54,7 +61,14 @@
   
   <url>
     <loc>http://remoder.github.io/tags/Hexo/</loc>
-    <lastmod>2021-10-10</lastmod>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://remoder.github.io/tags/ACM-IPCP/</loc>
+    <lastmod>2021-12-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
