@@ -67,7 +67,7 @@
 
   
   <url>
-    <loc>http://remoder.github.io/tags/%E8%BE%A9%E8%AE%BA/</loc>
+    <loc>http://remoder.github.io/tags/Hexo/</loc>
     <lastmod>2021-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -81,7 +81,7 @@
   </url>
   
   <url>
-    <loc>http://remoder.github.io/tags/Hexo/</loc>
+    <loc>http://remoder.github.io/tags/%E8%BE%A9%E8%AE%BA/</loc>
     <lastmod>2021-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
