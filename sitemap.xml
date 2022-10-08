@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://remoder.github.io/python-spider-tutorials.html</loc>
+    
+    <lastmod>2022-10-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://remoder.github.io/meng-ya-bei.html</loc>
+    
+    <lastmod>2022-05-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://remoder.github.io/problems-of-ACM.html</loc>
+    
+    <lastmod>2022-02-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://remoder.github.io/debate-skill-ways.html</loc>
     
     <lastmod>2021-12-31</lastmod>
@@ -17,13 +38,6 @@
   
   <url>
     <loc>http://remoder.github.io/theBirthOfBlog.html</loc>
-    
-    <lastmod>2021-12-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://remoder.github.io/problems-of-ACM.html</loc>
     
     <lastmod>2021-12-08</lastmod>
     
@@ -67,7 +81,7 @@
 
   <url>
     <loc>http://remoder.github.io/</loc>
-    <lastmod>2021-12-31</lastmod>
+    <lastmod>2022-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,21 +89,42 @@
   
   <url>
     <loc>http://remoder.github.io/tags/ACM-IPCP/</loc>
-    <lastmod>2021-12-31</lastmod>
+    <lastmod>2022-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://remoder.github.io/tags/%E8%BE%A9%E8%AE%BA/</loc>
-    <lastmod>2021-12-31</lastmod>
+    <lastmod>2022-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://remoder.github.io/tags/Hexo/</loc>
-    <lastmod>2021-12-31</lastmod>
+    <lastmod>2022-10-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://remoder.github.io/tags/Arduino/</loc>
+    <lastmod>2022-10-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://remoder.github.io/tags/Python/</loc>
+    <lastmod>2022-10-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://remoder.github.io/tags/Spider/</loc>
+    <lastmod>2022-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
