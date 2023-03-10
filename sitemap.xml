@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://remoder.github.io/Turn-on-PC-by-WoL.html</loc>
+    
+    <lastmod>2023-03-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://remoder.github.io/2464762964.html</loc>
+    
+    <lastmod>2023-03-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://remoder.github.io/python-spider-tutorials.html</loc>
     
     <lastmod>2022-10-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://remoder.github.io/debate-skill-ways.html</loc>
+    
+    <lastmod>2022-01-03</lastmod>
     
   </url>
   
@@ -60,6 +81,13 @@
 
   
   <url>
+    <loc>http://remoder.github.io/tags/%E8%BE%A9%E8%AE%BA/</loc>
+    <lastmod>2023-03-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://remoder.github.io/tags/Hexo/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>daily</changefreq>
@@ -75,6 +103,41 @@
   
   <url>
     <loc>http://remoder.github.io/tags/Spider/</loc>
+    <lastmod>2023-03-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://remoder.github.io/tags/IoT/</loc>
+    <lastmod>2023-03-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://remoder.github.io/tags/Wake-on-Lan/</loc>
+    <lastmod>2023-03-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://remoder.github.io/tags/ESP32/</loc>
+    <lastmod>2023-03-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://remoder.github.io/tags/Arduinok/</loc>
+    <lastmod>2023-03-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://remoder.github.io/tags/blinker/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
