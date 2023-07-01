@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://remoder.github.io/tags/index.html</loc>
+    <loc>http://remoder.github.io/link/index.html</loc>
     
     <lastmod>2023-06-26</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://remoder.github.io/link/index.html</loc>
+    <loc>http://remoder.github.io/tags/index.html</loc>
     
     <lastmod>2023-06-26</lastmod>
     
@@ -47,15 +47,6 @@
   </url>
   
   <url>
-    <loc>http://remoder.github.io/daily/index.html</loc>
-    
-    <lastmod>2023-06-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://remoder.github.io/calligraphy/index.html</loc>
     
     <lastmod>2023-06-26</lastmod>
@@ -65,7 +56,16 @@
   </url>
   
   <url>
-    <loc>http://remoder.github.io/cyber-apocalypto.html</loc>
+    <loc>http://remoder.github.io/daily/index.html</loc>
+    
+    <lastmod>2023-06-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://remoder.github.io/theBirthOfBlog.html</loc>
     
     <lastmod>2023-06-26</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://remoder.github.io/theBirthOfBlog.html</loc>
+    <loc>http://remoder.github.io/cyber-apocalypto.html</loc>
     
     <lastmod>2023-06-26</lastmod>
     
@@ -161,7 +161,14 @@
   </url>
   
   <url>
-    <loc>http://remoder.github.io/tags/Literature/</loc>
+    <loc>http://remoder.github.io/tags/Wake-on-Lan/</loc>
+    <lastmod>2023-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://remoder.github.io/tags/Hexo/</loc>
     <lastmod>2023-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -175,7 +182,7 @@
   </url>
   
   <url>
-    <loc>http://remoder.github.io/tags/Wake-on-Lan/</loc>
+    <loc>http://remoder.github.io/tags/Literature/</loc>
     <lastmod>2023-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -183,13 +190,6 @@
   
   <url>
     <loc>http://remoder.github.io/tags/%E8%BE%A9%E8%AE%BA/</loc>
-    <lastmod>2023-07-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://remoder.github.io/tags/Hexo/</loc>
     <lastmod>2023-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
